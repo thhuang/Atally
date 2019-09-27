@@ -1,5 +1,5 @@
 # Atally
-A finace app providing useful statistical features with beautiful and intuitive interfaces.
+A finance app providing useful statistical features with beautiful and intuitive interfaces.
 
 ## TODOs
 - [ ] Overview page
