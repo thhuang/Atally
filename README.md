@@ -1,17 +1,43 @@
-# atally
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Atally
+A finace app providing useful statistical features with beautiful and intuitive interfaces.
+
+## TODOs
+- [ ] Overview page
+  - [ ] Account
+  - [ ] Calendar
+  - [ ] Total Balance
+  - [ ] Budget
+  - [ ] History
+  - [ ] Search
+  - [ ] Record detail card
+- [ ] Input page (new record)
+  - [ ] Types
+    - [ ] Expense
+    - [ ] Income
+    - [ ] Receivables
+    - [ ] Payables
+  - [ ] Price
+    - [ ] Additional fee or discount
+    - [ ] Currency
+    - [ ] Number Pad
+  - [ ] Name
+  - [ ] Categories (may be multiple categories)
+  - [ ] Notes
+- [ ] Statistical analysis
+  - [ ] Trends
+  - [ ] Frequency
+  - [ ] Categories
+  - [ ] Goal
+- [ ] Ranking
+  - [ ] try figure it out...
+- [ ] Setting
+  - [ ] Budget
+  - [ ] Default currency
+  - [ ] Starting day for the statistical analysis
+  - [ ] OAuth
+  - [ ] Theme and colors
+  - [ ] Language
+  - [ ] Calendar first weekday
+  - [ ] Categories
+  - [ ] Number pad type
+  - [ ] Import and export
