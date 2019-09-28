@@ -2,7 +2,8 @@
 A personal financial management app providing useful statistical features with beautiful and intuitive interfaces.
 
 ## TODOs
-- [ ] Overview page
+- [ ] Loading screen
+- [ ] Overview screen
   - [ ] Account
   - [ ] Calendar
   - [ ] Total Balance
@@ -10,7 +11,7 @@ A personal financial management app providing useful statistical features with b
   - [ ] History
   - [ ] Search
   - [ ] Record detail card
-- [ ] Input page (new record)
+- [ ] Input screen (new record)
   - [ ] Types
     - [ ] Expense
     - [ ] Income
@@ -23,14 +24,14 @@ A personal financial management app providing useful statistical features with b
   - [ ] Name
   - [ ] Categories (may be multiple categories)
   - [ ] Notes
-- [ ] Statistical analysis
+- [ ] Statistical analysis screen
   - [ ] Trends
   - [ ] Frequency
   - [ ] Categories
   - [ ] Goal
-- [ ] Ranking
+- [ ] Ranking screen
   - [ ] try figure it out...
-- [ ] Setting
+- [ ] Setting screen
   - [ ] Budget
   - [ ] Default currency
   - [ ] Starting day for the statistical analysis
