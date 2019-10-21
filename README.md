@@ -30,7 +30,7 @@ A personal financial management app providing useful statistical features with b
   - [ ] Categories
   - [ ] Goal
 - [ ] Ranking screen
-  - [ ] try figure it out...
+  - [ ] figure it out...
 - [ ] Setting screen
   - [ ] Budget
   - [ ] Default currency
