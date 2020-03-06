@@ -1,6 +1,8 @@
 # atally
 A personal financial management app providing useful statistical features with beautiful and intuitive interfaces.
 
+##### The app is currently under construction!!!
+
 ## TODOs
 - [ ] Loading screen
 - [ ] Overview screen
